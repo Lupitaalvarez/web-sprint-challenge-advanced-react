@@ -93,4 +93,6 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 3. Define stateful logic.
 
+- Stateful logic is logic that is built into a component. For example, it can be a function that handles a click event, a function that sets a toggle state, or a function that formats data before it gets displayed.
+
 4. What are the three step of creating a successful test? What is done in each phase?
